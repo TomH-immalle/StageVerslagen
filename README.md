@@ -5,5 +5,7 @@ Toen we aankwamen kregen we al direct een rondleiding door heel het bedrijf. We 
 
 ## Dag 2  2017-10-03
 De tweede dag kon ik direct binnen. Ik ging al direct verder werken aan mijn taken. Nadien kregen we de opdracht om een paar servers te verplaatsen in Malle waar de afdelingen logistiek en ict vroeger zaten. Maar die zijn ondertussen verplaatst naar Brecht. Zodat alle afdelingen zich op één plaats bevinden. We hebben ook gezien hoe ze hier werken met office en de licenties die nodig zijn om de communicatie binnen het bedrijf op peil te houden. Ze lieten ook zien hoe ze het gemakkelijkst kunnen switchen van server naar server met een programma namelijk "mRemoteNG". (https://mremoteng.org/)
+
 ## Dag 3  2017-10-04
+De derde dag hebben we weinig gezien qua hardware. We hebben ons vandaag meer gericht op de software dat ze hier gebruiken. Maar die was vooral verouderd. Want ze gaan binnenkort proberen om met Microsoft spe (Secure productive enterprise. https://products.office.com/nl-be/secure-productive-enterprise) te werken. Maar dat gaat nog wel even duren. We hebben al veel taken verder af kunnen maken zodat we minder in onze vrije tijd moeten doen. 
 ##
