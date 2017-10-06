@@ -8,4 +8,6 @@ De tweede dag kon ik direct binnen. Ik ging al direct verder werken aan mijn tak
 
 ## Dag 3  2017-10-04
 De derde dag hebben we weinig gezien qua hardware. We hebben ons vandaag meer gericht op de software dat ze hier gebruiken. Maar die was vooral verouderd. Want ze gaan binnenkort proberen om met Microsoft spe (Secure productive enterprise. https://products.office.com/nl-be/secure-productive-enterprise) te werken. Maar dat gaat nog wel even duren. We hebben al wel veel aan onze taken kunnen werken zodat we minder in onze vrije tijd moeten doen. 
-##
+
+## Dag 4  2017-10-05
+Deze dag was rustig. We hebben niet veel gedaan. Onze begeleider heeft ons wel laten zien hoe dat de fingerprints en de intelligente kasten werken en op welke software ze draaien. Er waren niet veel problemen dus de ICT'ers hadden niet veel te doen. Daardoor hebben we vaak zitten praten en hebben we onze begeleider op een andere manier leren kennen. Ze hebben ons wel het netwerk laten zien hoe het in elkaar zat. Dat hadden ze op de eerste dag ook al laten zien maar nu stelden ze het schematisch voor. Wat voor mij gemakkelijker was om voor te stellen. Ik heb wel een paar foto's kunnen trekken voor mijn case study. We moesten al wel afscheid nemen van onze begeleider want hij zal de laatste dag niet aanwezig zijn door een cursus die hij moet volgen.
